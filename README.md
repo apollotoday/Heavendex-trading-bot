@@ -23,7 +23,7 @@ Welcome to our comprehensive and user-friendly bot designed for launching tokens
 
 ```bash
 # Begin by cloning our repository
-git clone https://github.com/moonbot777/Token-Launchpad-Heaven.git
+git clone https://github.com/apollotoday/Token-Launchpad-Heaven.git
 cd New-repo
 
 # Install the necessary dependencies
@@ -171,7 +171,7 @@ We'd love to have you contribute to our project! Here's how you can get involved
 
 We're here to help! Feel free to reach out through any of these channels:
 
-- **Telegram**: [@Pioneer](https://t.me/hi_3333)
+- **Telegram**: [@web3_maxim](https://t.me/web3_maxim)
 
 ## 📄 License Information
 
